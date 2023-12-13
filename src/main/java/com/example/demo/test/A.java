@@ -1,4 +1,4 @@
 package com.example.demo.test;
 
-public class Test1 {
+public class A {
 }
